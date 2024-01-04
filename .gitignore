@@ -13,7 +13,8 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
+Build
+Release
 Content/Overview.umap
 Content/NecrosUtilityMatPack
-
 desktop.ini
