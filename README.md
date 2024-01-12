@@ -26,6 +26,7 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
 - [color-sample.com](https://www.color-sample.com/)
 - [GIMP](https://www.gimp.org/)
 - [Audacity](https://www.audacityteam.org/)
+- [FreeCAD](https://www.freecad.org/)
 
 ### Unreal Engine Assets
 - [Necro's Utility Material Pack](https://www.unrealengine.com/marketplace/ja/product/necro-s-utility-material-pack) by
