@@ -38,6 +38,10 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
 - [Flags Package / 250+ Flags](https://www.unrealengine.com/marketplace/ja/product/flags-package-250-flags) by
   [Pack Dev](https://www.unrealengine.com/marketplace/ja/profile/Pack+Dev)
 
+### Images
+- [Timer, clock Icon](https://icon-icons.com/icon/timer-clock/8957) by
+  [Umut Pulat](https://icon-icons.com/users/HHnV9TQQv471ZcHxrpZgh/icon-sets/)
+
 ### Fonts
 - [Arachide](https://www.dafont.com/arachide.font) by
   [Vladimir Nikolic](https://www.dafont.com/profile.php?user=984451)
