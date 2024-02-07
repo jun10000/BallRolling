@@ -47,6 +47,8 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
   [Vladimir Nikolic](https://www.dafont.com/profile.php?user=984451)
 - [Super Mario 256](https://www.dafont.com/super-mario-256.font) by
   [fsuarez913](https://www.dafont.com/profile.php?user=515895)
+- [OldStyle](https://www.dafont.com/oldstyle-hplhs.font) by
+  [HPLHS Prop Fonts](https://www.dafont.com/hplhs-prop-fonts.d614)
 
 ### Sounds
 - [転がる音](https://www.digipot.net/?p=76955) by
