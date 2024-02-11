@@ -67,3 +67,13 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
   [Hupple](https://dova-s.jp/_contents/author/profile405.html)
 - [水バッシャ](https://dova-s.jp/se/play1230.html) by
   [稿屋 隆](https://dova-s.jp/_contents/author/profile000.html)
+- [不思議な森(Mysterious forest)](https://dova-s.jp/bgm/play14924.html) by
+  [蒲鉾さちこ](https://dova-s.jp/_contents/author/profile423.html)
+- [ボールペンノック](https://dova-s.jp/se/play033.html) by
+  [稿屋 隆](https://dova-s.jp/_contents/author/profile000.html)
+- [金属を叩く音](https://dova-s.jp/se/play1048.html) by
+  [Make a field Music](https://dova-s.jp/_contents/author/profile164.html)
+- [リアルな猫の鳴き声](https://dova-s.jp/se/play1464.html) by
+  [えすにっく・かわひろ](https://dova-s.jp/_contents/author/profile271.html)
+- [神秘的なポン](https://pocket-se.info/archives/446/) by
+  [ポケットサウンド](https://pocket-se.info/)
