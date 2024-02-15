@@ -15,6 +15,9 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
 - Up/Down/Left/Right: Move the selection
 - Enter/Click: Determine
 
+### Video playing
+- Click: Skip the video
+
 ### Game playing
 - Mouse move: Tilt the stage
 - R key: Reset all balls (All balls are returned to each start positions)
