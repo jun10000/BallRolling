@@ -1,6 +1,6 @@
 # BallRolling
 
-![Screenshot](image-2024-03-06-133315.png)  
+![Screenshot](image-2024-03-21-120430.png)  
 
 ## How to play
 
