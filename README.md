@@ -43,6 +43,8 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
 ### Images
 - [Timer, clock Icon](https://icon-icons.com/icon/timer-clock/8957) by
   [Umut Pulat](https://icon-icons.com/users/HHnV9TQQv471ZcHxrpZgh/icon-sets/)
+- [Coins, coin, money, cash Icon](https://icon-icons.com/icon/coins-coin-money-cash/185964) by
+  [Egor Mironov](https://icon-icons.com/users/4qyhcYDVYmtgldhOSyS8g/icon-sets/)
 
 ### Fonts
 - [Arachide](https://www.dafont.com/arachide.font) by
