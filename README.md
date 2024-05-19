@@ -24,13 +24,13 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
 
 ## Staff credit
 
-### Development tools
+### Development tool
 - [Unreal Engine](https://www.unrealengine.com/)
 - [color-sample.com](https://www.color-sample.com/)
 - [GIMP](https://www.gimp.org/)
 - [Audacity](https://www.audacityteam.org/)
 
-### Unreal Engine Assets
+### Unreal Engine Asset
 - [Necro's Utility Material Pack](https://www.unrealengine.com/marketplace/ja/product/necro-s-utility-material-pack) by
   [Necrophob30](https://www.unrealengine.com/marketplace/ja/profile/Necrophob30)
 - [Dynamic Volumetric Sky](https://www.unrealengine.com/marketplace/ja/product/dynamic-volumetric-sky) by
@@ -40,7 +40,7 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
 - [Flags Package / 250+ Flags](https://www.unrealengine.com/marketplace/ja/product/flags-package-250-flags) by
   [Pack Dev](https://www.unrealengine.com/marketplace/ja/profile/Pack+Dev)
 
-### Images
+### Image
 - [Timer, clock Icon](https://icon-icons.com/icon/timer-clock/8957) by
   [Umut Pulat](https://icon-icons.com/users/HHnV9TQQv471ZcHxrpZgh/icon-sets/)
 - [Alarm clock, alarm Icon](https://icon-icons.com/icon/alarm-clock-alarm/9034) by
@@ -48,7 +48,7 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
 - [Coins, coin, money, cash Icon](https://icon-icons.com/icon/coins-coin-money-cash/185964) by
   [Egor Mironov](https://icon-icons.com/users/4qyhcYDVYmtgldhOSyS8g/icon-sets/)
 
-### Fonts
+### Font
 - [Arachide](https://www.dafont.com/arachide.font) by
   [Vladimir Nikolic](https://www.dafont.com/profile.php?user=984451)
 - [Super Mario 256](https://www.dafont.com/super-mario-256.font) by
@@ -56,25 +56,31 @@ Tilt the stage to roll the ball, sometimes avoiding obstacles and using exquisit
 - [OldStyle](https://www.dafont.com/oldstyle-hplhs.font) by
   [HPLHS Prop Fonts](https://www.dafont.com/hplhs-prop-fonts.d614)
 
-### Sounds
-- [転がる音](https://www.digipot.net/?p=76955) by
-  [でじけろお](https://www.digipot.net/?page_id=2)
+### Music
 - [See you on a starry night.](https://dova-s.jp/bgm/play19990.html) by
   [北見ヒツジ](https://dova-s.jp/_contents/author/profile452.html)
 - [Higher than sky](https://dova-s.jp/bgm/play18649.html) by
   [北見ヒツジ](https://dova-s.jp/_contents/author/profile452.html)
 - [気分はウイスキー](https://dova-s.jp/bgm/play5466.html) by
   [Keido Honda](https://dova-s.jp/_contents/author/profile141.html)
+- [不思議な森(Mysterious forest)](https://dova-s.jp/bgm/play14924.html) by
+  [蒲鉾さちこ](https://dova-s.jp/_contents/author/profile423.html)
+- [Before Sunrise](https://dova-s.jp/bgm/play2235.html) by
+  [brightwaltz](https://dova-s.jp/_contents/author/profile086.html)
+
+### Sound
+- [転がる音](https://www.digipot.net/?p=76955) by
+  [でじけろお](https://www.digipot.net/?page_id=2)
 - [タップ音](https://dova-s.jp/se/play1457.html) by
   [NaruIDEA](https://dova-s.jp/_contents/author/profile370.html)
 - [ゲームのボタン音](https://dova-s.jp/se/play1384.html) by
+  [NaruIDEA](https://dova-s.jp/_contents/author/profile370.html)
+- [コインのぶつかり合う音](https://dova-s.jp/se/play1172.html) by
   [NaruIDEA](https://dova-s.jp/_contents/author/profile370.html)
 - [ウホッ！窓を拭くような音の効果音](https://dova-s.jp/se/play1440.html) by
   [Hupple](https://dova-s.jp/_contents/author/profile405.html)
 - [水バッシャ](https://dova-s.jp/se/play1230.html) by
   [稿屋 隆](https://dova-s.jp/_contents/author/profile000.html)
-- [不思議な森(Mysterious forest)](https://dova-s.jp/bgm/play14924.html) by
-  [蒲鉾さちこ](https://dova-s.jp/_contents/author/profile423.html)
 - [ボールペンノック](https://dova-s.jp/se/play033.html) by
   [稿屋 隆](https://dova-s.jp/_contents/author/profile000.html)
 - [金属を叩く音](https://dova-s.jp/se/play1048.html) by
